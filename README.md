@@ -1,7 +1,5 @@
-[![Couverture](images/cover.png)](...)
-
-You'll find here the python codes and reference that are used in the book [The Data Handbook](https://datacorner.fr/)  
-**Get more and go beyond on my website [datacorner.fr](https://datacorner.fr/)**
+You'll find here the python codes and reference that are used in the book [The Data Handbook](https://datacorner.net/)  
+**Get more and go beyond on my website [datacorner.fr](https://datacorner.net/)**
 
 # Data Handbook - Chap 1 - Data 360
 ## Book examples
